@@ -8,6 +8,16 @@ int main(){
     int y = 10;
     int sum= x+y;
 
+    // integer (whole number)
+    int age = 21;
+    int year = 2021;
+    int days = 8;
+
+    // double (decimal number)
+    double price = 10.97;
+
+    std::cout << price << "\n";
+    std::cout << days << "\n";
     std::cout << x << "\n";
     std::cout << y<< "\n";
     std::cout << sum << "\n";
