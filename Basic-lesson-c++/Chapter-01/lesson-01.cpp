@@ -15,6 +15,13 @@ int main(){
 
     // double (decimal number)
     double price = 10.97;
+    double pi = 3.14159;
+    double temperature = 98.6;
+    double x = 5.5;
+
+    //single character
+    char grade = 'A';
+    char letter = 'B';
 
     std::cout << price << "\n";
     std::cout << days << "\n";
