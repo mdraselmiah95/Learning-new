@@ -6,6 +6,12 @@ int addNumber(int first_param, int second_param){
     return result;
 }
 
+
+int multiplyNumber(int first_param, int second_param){
+    int result = first_param * second_param;
+    return result;
+}
+
 int main(){
 
     int first_number{3}; // Statement 
@@ -18,7 +24,15 @@ int main(){
     std::cout << "Sum : " << sum << std::endl;
 
     sum = addNumber(11, 77);
-    std::cout << "Fuck Sum : " << sum << std::endl;
 
-    return 0;
+    std::cout << "Funk Sum : " << sum << std::endl;
+    sum = addNumber(10, 100);
+
+     std::cout << "Funk Sum : " << sum << std::endl;
+
+     std::cout << "Multiply Num : " << multiplyNumber(11, 10) << std::endl;
+     return 0;
 }
+
+
+// continue => 02:30:00
