@@ -3,6 +3,6 @@
 
 int main()
 {
-    auto result = (10 <=> 20) > 0;
-    std::cout << result << std::endl;
+    std::cout << "Number 01" << std::endl;
+    std::cout << "number 02" << std::endl;
 }
