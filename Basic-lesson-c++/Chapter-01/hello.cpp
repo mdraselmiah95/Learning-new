@@ -7,6 +7,14 @@
  * return 0; statement is used to exit the program. The value 0 indicates that the program has terminated successfully. The execution of the program starts from the main function. When the return statement is executed, the program terminates.
 */
 
+/**
+Three type of error are:
+=> Compile errors
+=> Runtime errors
+=> Warnings
+
+*/
+
 
 int main(){
 
