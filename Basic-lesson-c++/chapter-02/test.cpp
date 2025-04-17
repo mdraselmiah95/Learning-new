@@ -3,6 +3,7 @@
 
 int main()
 {
-    std::cout << "Number 01" << std::endl;
-    std::cout << "number 02" << std::endl;
+    std::cout << "Md Rasel" << std::endl;
+
+    return 0;
 }
