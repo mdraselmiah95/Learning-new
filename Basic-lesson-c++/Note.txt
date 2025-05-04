@@ -1,0 +1,17 @@
+OOP => Object-Oriented Programming
+POP => Procedure-Oriented Programming
+
+
+
+| Feature             | OOP (Object-Oriented Programming)            | POP (Procedure-Oriented Programming)             |
+
+| Approach            | Based on objects and classes                 | Based on procedures/functions              |
+| Focus               | Focuses on data and behavior (methods)       | Focuses on functions and the flow of actions |
+| Data Security       | Encapsulation helps protect data             | Data is generally exposed to all functions       |
+| Modularity          | Code is organized into reusable objects      | Code is organized into functions            |
+| Scalability         | More suitable for large and complex programs | Better for smaller and straightforward programs  |
+| Reusability         | Promotes reusability via inheritance         | Less reusability; functions must be rewritten    |
+| Examples            | C++, Java, Python (OOP), C#, Ruby            | C, Pascal, early versions of BASIC               |
+| Real-world Modeling | Models real-world entities using objects     | Harder to model real-world entities              |
+
+
